@@ -48,11 +48,6 @@ Recently launched a calendar booking system and currently learning more about py
 
 ## Stats
 
-![](https://img.shields.io/badge/total_starts_earned-67-green?style=for-the-badge)
-![](https://img.shields.io/badge/total_commits_/_2022-1.1k-green?style=for-the-badge)
-![](https://img.shields.io/badge/total_prs-210-green?style=for-the-badge)
-![](https://img.shields.io/badge/total_issues-67-green?style=for-the-badge)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkdev&layout=compact&theme=gotham&count_private=true")
 
 ## Skill Set
