@@ -1,4 +1,4 @@
-# Tech Lead | Sr. Full-Stack JavaScript Engineer ![](https://img.shields.io/badge/Open_to_work-green?style=for-the-badge)
+# Tech Lead | Staff Full-Stack Engineer ![](https://img.shields.io/badge/Open_to_work-green?style=for-the-badge)
 <div>
   <img src="https://simpleicons.org/icons/react.svg" width="40"/>
   <img src="https://simpleicons.org/icons/nodedotjs.svg" width="40"/>
@@ -8,6 +8,6 @@
 
 ## Overview
 
-Senior full-stack engineer with 10 years of professional experience in Javascript. Worked on 4+ large projects with cross-functional teams and love to work with startup and small-mid companies. Have a great sense of understanding business ideas. Writing clean and best-practice codes.
+Experienced Staff Full-Stack Engineer/Tech Lead with a passion for solving complex problems and delivering business growth. With 10 years of experience, I have a track record of leading 4 large-scale projects and collaborating/mentoring.
 
-Recently launched a calendar booking system and currently learning more about python.
+Recently launched a yoga booking system and currently learning more about Python.
